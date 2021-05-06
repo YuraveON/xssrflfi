@@ -1,0 +1,10 @@
+go-lang
+gf (https://github.com/tomnomnom/gf) 
+httpx
+waybackurls
+qsreplace
+gau
+ffuf
+https://github.com/1ndianl33t/Gf-Patterns
+findomain
+interactsh or burpsuite pro
